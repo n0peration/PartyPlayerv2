@@ -12,9 +12,9 @@ Youtube PartyPlayer enables you to use your media PC/Server as a Youtube Video p
 * checkout the repository or download directly from github
 * navigate your terminal to the root directory of the project
 	* on windows use the node.js command prompt
-* install dependencies
+* install dependencies:
 	`npm install`
 
 ##Run
-`node app`
-navigate your client device to the address you see in the console output
+Execute `node app` in the projects root dir,
+and navigate your client device to the address you see in the console output
