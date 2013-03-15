@@ -18,6 +18,7 @@
    			//0 = finished
    			if (newState === 0) {
    				socket.emit('command', { fin: videoID });
+   				window.close();
    			}
 			
 		}
