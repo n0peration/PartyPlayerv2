@@ -1,0 +1,12 @@
+{
+	"name": "YoutubePartyPlayerv2",
+	"version": "0.2.0",
+	"author": "n0peration <n0peration90@gmail.com>",
+	"description": "Youtube PartyPlayer enables you to use your media PC/Server as a Youtube Video playback device",
+	"dependencies": {
+		"express": "3.x.x",
+		"youtube-feeds": "2.1.0",
+		"open": "0.0.3",
+		"socket.io": "0.9.x"
+	}
+}
