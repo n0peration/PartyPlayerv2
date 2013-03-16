@@ -1,6 +1,6 @@
 #Youtube PartyPlayer v2
 ##About
-Youtube PartyPlayer enables you to use your media PC/Server as a Youtube Video playback device with the capabilities of creating a  unified playlist which is modifiable from every single device that's in the same network as your server. eg. Smartphones, Laptops, other PCs
+Youtube PartyPlayer enables you to use your media PC/Server as a Youtube Video playback device with the capabilities of creating a  unified playlist which is modifiable from every single device that's on the same network as your server. eg. Smartphones, Laptops, other PCs
 
 ##Requirements
 * node with npm
@@ -13,8 +13,15 @@ Youtube PartyPlayer enables you to use your media PC/Server as a Youtube Video p
 * navigate your terminal to the root directory of the project
 	* on windows use the node.js command prompt
 * install dependencies:
-	`npm install`
+
+```terminal
+npm install
+````
 
 ##Run
-Execute `node app` in the projects root dir,
+Execute:
+```terminal
+node app
+```
+in the projects root dir,
 and navigate your client device to the address you see in the console output
